@@ -1,0 +1,12 @@
+data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos,nota_facilidade
+2026-11-18 20:04:22,pergunta,Meu produto não foi entregue,,False,False,1,21.6,2
+2026-11-18 20:04:48,pergunta,Recebi uma cobrança indevida,6,True,True,1,18.2,2
+2026-11-18 20:05:22,pergunta,Não sei como localizar a minha compra,,False,False,1,23.0,2
+2026-11-18 20:05:51,pergunta,Quero cancelar uma compra pela internet,,False,False,1,6.7,2
+2026-11-18 20:06:36,pergunta,Comprei um produto e ele veio com defeito,,False,False,1,4.7,2
+2026-11-18 20:07:03,pergunta,Fiz um Pix para um golpista,,False,False,1,14.6,2
+2026-11-18 20:07:21,pergunta,Como faço uma reclamação no Consumidor.gov.br,7,True,True,1,3.7,2
+2026-11-18 20:08:24,pergunta,Minha encomenda não chegou,,False,False,1,5.3,2
+2026-11-18 20:09:09,pergunta,Recebi um produto diferente do que comprei,3,True,True,1,38.8,2
+2026-11-18 20:09:23,pergunta,Estão cobrando algo que não comprei,,False,False,1,4.7,2
+2026-11-18 20:09:40,pergunta,Como posso me proteger de fraudes digitais,,False,False,1,4.5,2

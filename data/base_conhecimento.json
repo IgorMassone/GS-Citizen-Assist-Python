@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "categoria": "Compras online",
+        "titulo": "Me arrependi da compra online",
+        "palavras_chave": [
+            "desistir da compra",
+            "arrependimento",
+            "cancelar compra online",
+            "devolver produto",
+            "cancelar uma compra online"
+        ],
+        "resposta": "Em compras feitas pela internet, telefone ou fora da loja física, o consumidor pode desistir em até 7 dias, contados do recebimento do produto ou da assinatura do contrato. O pedido deve ser feito à empresa e é importante guardar o protocolo.",
+        "documentos": [
+            "Comprovante da compra",
+            "Número do pedido",
+            "Registro do pedido de cancelamento"
+        ],
+        "onde": "No atendimento da loja ou plataforma em que a compra foi realizada.",
+        "fonte": "https://www.procon.sp.gov.br/consumidor/",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 2,
+        "categoria": "Compras online",
+        "titulo": "Meu pedido não chegou",
+        "palavras_chave": [
+            "produto nao chegou",
+            "pedido atrasado",
+            "compra nao entregue",
+            "prazo de entrega"
+        ],
+        "resposta": "Quando a empresa não entrega o produto no prazo combinado, isso pode ser descumprimento da oferta. O consumidor pode pedir a entrega conforme anunciado, aceitar outro produto equivalente ou cancelar a compra e pedir a devolução do valor pago.",
+        "documentos": [
+            "Comprovante do pedido",
+            "Comprovante de pagamento",
+            "Prazo de entrega informado",
+            "Conversas com a loja"
+        ],
+        "onde": "Primeiro, entre em contato com a loja. Se não resolver, procure o Procon ou use o Consumidor.gov.br quando a empresa estiver cadastrada.",
+        "fonte": "https://www.procon.sp.gov.br/reclamacoes-de-compras-online/",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 3,
+        "categoria": "Compras online",
+        "titulo": "Veio produto errado ou faltando peça",
+        "palavras_chave": [
+            "produto errado",
+            "produto diferente",
+            "pedido incompleto",
+            "faltou acessorio"
+        ],
+        "resposta": "Se o produto recebido for diferente do anunciado ou estiver incompleto, o consumidor pode exigir que a oferta seja cumprida, aceitar outro produto equivalente ou cancelar a compra e pedir o dinheiro de volta. Guarde fotos e comprovantes.",
+        "documentos": [
+            "Comprovante da compra",
+            "Fotos do produto recebido",
+            "Anúncio ou descrição do produto"
+        ],
+        "onde": "No atendimento da loja ou plataforma. Se não houver solução, procure o Procon ou o Consumidor.gov.br.",
+        "fonte": "https://www.procon.sp.gov.br/reclamacoes-de-compras-online/",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 4,
+        "categoria": "Compras online",
+        "titulo": "Produto novo com defeito",
+        "palavras_chave": [
+            "produto com defeito",
+            "produto parou de funcionar",
+            "assistencia tecnica",
+            "conserto"
+        ],
+        "resposta": "Em regra, o fornecedor tem até 30 dias para resolver o defeito. Se o problema não for resolvido nesse prazo, o consumidor pode escolher entre a troca, a devolução do valor pago ou um abatimento proporcional do preço.",
+        "documentos": [
+            "Nota fiscal ou comprovante da compra",
+            "Produto com defeito",
+            "Ordem de serviço ou protocolo de atendimento"
+        ],
+        "onde": "Entre em contato com a loja, fabricante ou assistência técnica autorizada e guarde a ordem de serviço.",
+        "fonte": "https://www.procon.sp.gov.br/espaco-fornecedor/",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 5,
+        "categoria": "Compras online",
+        "titulo": "Quanto tempo tenho para reclamar",
+        "palavras_chave": [
+            "prazo para reclamar",
+            "produto duravel",
+            "produto nao duravel",
+            "garantia legal"
+        ],
+        "resposta": "Para problemas aparentes ou fáceis de perceber, o prazo para reclamar é de 30 dias para produtos não duráveis e 90 dias para produtos duráveis. Em caso de defeito oculto, a contagem começa quando o problema aparece.",
+        "documentos": [
+            "Nota fiscal ou comprovante da compra",
+            "Registro da data em que recebeu o produto",
+            "Fotos ou descrição do problema"
+        ],
+        "onde": "Entre em contato com o fornecedor. Se não houver solução, procure o Procon.",
+        "fonte": "https://www.procon.sp.gov.br/fornecedor/",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 6,
+        "categoria": "Pagamentos e cobranças",
+        "titulo": "Cobrança que não reconheço",
+        "palavras_chave": [
+            "cobranca indevida",
+            "cobraram duas vezes",
+            "valor errado",
+            "pagamento duplicado"
+        ],
+        "resposta": "Entre em contato com a empresa responsável e peça a verificação e correção da cobrança. Guarde faturas, comprovantes e o protocolo. Se você pagou uma quantia indevida, o Código de Defesa do Consumidor prevê, em determinadas condições, devolução em dobro do valor pago em excesso, salvo engano justificável.",
+        "documentos": [
+            "Fatura ou conta",
+            "Comprovante de pagamento",
+            "Protocolo de atendimento"
+        ],
+        "onde": "No atendimento da empresa que fez a cobrança. Se não resolver, procure o Procon ou o Consumidor.gov.br.",
+        "fonte": "https://www.procon.sp.gov.br/armadilhas-do-consumo/",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 7,
+        "categoria": "Pagamentos e cobranças",
+        "titulo": "Reclamar no Consumidor.gov.br",
+        "palavras_chave": [
+            "consumidor gov",
+            "registrar reclamacao",
+            "reclamar de empresa",
+            "problema com compra"
+        ],
+        "resposta": "O Consumidor.gov.br é um serviço público e gratuito para conversar diretamente com empresas participantes e tentar resolver problemas de consumo. Para registrar uma reclamação, é necessário ter uma conta Gov.br.",
+        "documentos": [
+            "Conta Gov.br",
+            "Comprovantes da compra ou serviço",
+            "Descrição do problema",
+            "Protocolos anteriores, se houver"
+        ],
+        "onde": "Pela internet, no site https://www.consumidor.gov.br/. Verifique se a empresa está cadastrada na plataforma.",
+        "fonte": "https://www.gov.br/mj/pt-br/assuntos/noticias/consumidor-gov-br-saiba-como-registrar-uma-reclamacao-pela-plataforma",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 8,
+        "categoria": "Segurança digital",
+        "titulo": "Caí em golpe no Pix",
+        "palavras_chave": [
+            "golpe do pix",
+            "pix para golpista",
+            "pix fraudulento",
+            "caí em golpe"
+        ],
+        "resposta": "Entre em contato com seu banco o mais rápido possível pelo aplicativo ou canal oficial e informe o golpe. Peça a contestação da transação pelo Mecanismo Especial de Devolução (MED), quando o caso se enquadrar. Também é recomendado registrar um Boletim de Ocorrência.",
+        "documentos": [
+            "Comprovante do Pix",
+            "Prints das conversas ou anúncio",
+            "Protocolo do banco",
+            "Boletim de Ocorrência, se registrado"
+        ],
+        "onde": "No aplicativo ou atendimento oficial do seu banco. Se necessário, procure a Polícia Civil e o Procon.",
+        "fonte": "https://www.bcb.gov.br/meubc/faqs/p/o-que-fazer-em-caso-de-golpe-fraude-ou-um-crime",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 9,
+        "categoria": "Segurança digital",
+        "titulo": "Prazo para pedir o Pix de volta",
+        "palavras_chave": [
+            "prazo med",
+            "contestar pix",
+            "devolucao pix",
+            "mecanismo especial de devolucao"
+        ],
+        "resposta": "Em caso de fraude, golpe ou crime, o pedido de devolução pelo MED deve ser feito à instituição financeira em até 80 dias da data do Pix. O MED não serve para arrependimento, desacordo comercial comum ou Pix enviado por engano para outra pessoa. A devolução não é garantida: depende da análise e da existência de recursos nas contas envolvidas.",
+        "documentos": [
+            "Comprovante da transação",
+            "Informações sobre o golpe",
+            "Protocolo da contestação"
+        ],
+        "onde": "No aplicativo ou atendimento oficial do banco em que você fez o Pix.",
+        "fonte": "https://www.bcb.gov.br/meubc/faqs/p/o-que-e-e-como-funciona-o-mecanismo-especial-de-devolucao-med",
+        "verificado_em": "2026-11-17"
+    },
+    {
+        "id": 10,
+        "categoria": "Segurança digital",
+        "titulo": "Fui vítima de fraude na internet",
+        "palavras_chave": [
+            "fraude digital",
+            "crime pela internet",
+            "registrar boletim",
+            "comprovantes do golpe"
+        ],
+        "resposta": "Procure o banco ou serviço envolvido usando somente os canais oficiais, guarde comprovantes e registros da conversa e relate o ocorrido. Em caso de crime, é recomendado registrar um Boletim de Ocorrência. Não envie senhas ou códigos de acesso para pessoas que entrarem em contato.",
+        "documentos": [
+            "Comprovantes disponíveis",
+            "Prints de mensagens e anúncios",
+            "Protocolos de atendimento"
+        ],
+        "onde": "No banco ou serviço envolvido e na Polícia Civil. Para orientação sobre consumo, procure o Procon.",
+        "fonte": "https://www.bcb.gov.br/meubc/faqs/p/o-que-fazer-em-caso-de-golpe-fraude-ou-um-crime",
+        "verificado_em": "2026-11-17"
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "data": "2026-11-18 20:04:22",
+        "origem": "pergunta",
+        "pergunta": "Meu produto não foi entregue",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 21.6,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:04:48",
+        "origem": "pergunta",
+        "pergunta": "Recebi uma cobrança indevida",
+        "id_orientacao": 6,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 18.2,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:05:22",
+        "origem": "pergunta",
+        "pergunta": "Não sei como localizar a minha compra",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 23.0,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:05:51",
+        "origem": "pergunta",
+        "pergunta": "Quero cancelar uma compra pela internet",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 6.7,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:06:36",
+        "origem": "pergunta",
+        "pergunta": "Comprei um produto e ele veio com defeito",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 4.7,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:07:03",
+        "origem": "pergunta",
+        "pergunta": "Fiz um Pix para um golpista",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 14.6,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:07:21",
+        "origem": "pergunta",
+        "pergunta": "Como faço uma reclamação no Consumidor.gov.br",
+        "id_orientacao": 7,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 3.7,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:08:24",
+        "origem": "pergunta",
+        "pergunta": "Minha encomenda não chegou",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 5.3,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:09:09",
+        "origem": "pergunta",
+        "pergunta": "Recebi um produto diferente do que comprei",
+        "id_orientacao": 3,
+        "encontrou": true,
+        "ajudou": true,
+        "tentativas": 1,
+        "tempo_segundos": 38.8,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:09:23",
+        "origem": "pergunta",
+        "pergunta": "Estão cobrando algo que não comprei",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 4.7,
+        "nota_facilidade": 2
+    },
+    {
+        "data": "2026-11-18 20:09:40",
+        "origem": "pergunta",
+        "pergunta": "Como posso me proteger de fraudes digitais",
+        "id_orientacao": null,
+        "encontrou": false,
+        "ajudou": false,
+        "tentativas": 1,
+        "tempo_segundos": 4.5,
+        "nota_facilidade": 2
+    }
+]
